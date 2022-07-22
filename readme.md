@@ -1,3 +1,3 @@
 ## links
 
-Estudo de DDD com typescrypt postgree e docker
+Estudo de DDD com typescrypt postgresql e docker
